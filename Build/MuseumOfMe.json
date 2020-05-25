@@ -1,0 +1,16 @@
+{
+"companyName": "CactiAttack",
+"productName": "Museum of You",
+"productVersion": "0.1",
+"dataUrl": "MuseumOfMe.data.unityweb",
+"wasmCodeUrl": "MuseumOfMe.wasm.code.unityweb",
+"wasmFrameworkUrl": "MuseumOfMe.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.12f1"
+}
